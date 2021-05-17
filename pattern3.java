@@ -9,7 +9,7 @@ class pattern3
 		int l;
 		l=name.length();    //length of name
 		int nl=l+3;         //get the total lenth thats names length and "  +"
-                int nll=22-nl;      //i will remove that from that row count
+                int nll=22-nl;      //this will remove that from that row count
 		for(int i=9;i>0;i--)
 		{
 			if(i==1||i==9)
